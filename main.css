@@ -1,0 +1,151 @@
+<style>
+body{
+background-color: #fcdab7;
+}
+
+#container {
+       margin-right:auto;
+       width:auto;
+       background-color: #1d2d50;
+        }
+#header{
+       width:1550px;
+       height:550px;
+       background-image: url(https://i.pinimg.com/originals/25/fd/43/25fd431bd074420f58641e59e7e6d601.jpg);
+       background-size:cover;
+       margin-left:auto;
+       margin-right:auto;
+       }
+#name{
+       height:75px;
+       width:1550px;
+       text-align:center;
+       background-color: #1d2d50;
+       }
+p span{
+       border: 0 solid black;
+       padding:12px;
+       position: relative;
+}
+#group_name {
+    text-align:center;
+    font-family: "Helvetica";
+    font-size: 25px;
+    color:#e5e5e5;
+}
+#bio-header {
+    position: relative;
+    top:10px;
+    left:150px;
+    font-size:50px;
+    background-color:#ff4b5c;
+    text-align:center;
+    width:350px;
+}
+sub-header {
+    line-height: 120px;
+    padding-left: 30px;
+    font-size: 50px;
+    color: #31112c;
+    font-weight: bold;
+    height: 120px;
+    width: 650px;
+}
+#content {
+    width: 1550px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:#056674;
+}
+
+#main-content {
+    height: auto;
+    width: auto;
+    background-color: white;
+    position: relative;
+    top: 25px;
+    left: 10px;
+    font-family: 'Dosis' , sans-serif;
+}
+
+.event-date {
+    width: 150px;
+    height:7px;
+    text-align: center;
+    line-height: 26px;
+    float: left;
+    font-size: 14px;
+    border-top: 2px solid #ccc;
+    margin: -1px 0 0 0;
+    padding: 4px 5px 6px 0;
+    clear: left;
+    font-weight: bold;
+}
+
+.event-desc {
+    width: 655px;
+    background: #f5f1da;
+    float: left;
+    margin: 0;
+    padding: 8px 12px 8px 8px;
+    border-top: 1px solid #ccc;
+    clear: right;
+    font-size: 14px;
+}
+
+.event-desc{
+    border-bottom: 1px solid #ccc;
+}
+
+#side-content {
+    height:00px;
+    width:600px;
+    float: right;
+    clear: both;
+    position: relative;
+    bottom:1000px;
+}
+
+#family-pic {
+    width: 500px;
+    height: auto;
+    position: top;
+    top: 7px;
+    float: center;
+}
+
+.info {
+    font-size: 90%;
+    color: #e0ece4;
+    font-family: 'Dosis' , sans-serif;
+    position: relative;
+    margin-bottom: 2em;
+    text-align: center;
+    background-color: #1d2d50;
+    
+}
+
+.th, .info td {
+    vertical-align: top;
+    border: 0;
+    border-top: 3px solid grey;
+    padding: 1.2em;
+}
+
+
+#nutshell {
+    font-family: 'Garamond' , sans-serif;
+    font-weight:bold;
+    font-size: 56px;
+}
+a{
+  color:#a3d2ca;
+}
+#video{
+  position: fixed;
+  right:0px;
+  bottom:0px;
+  
+}
+</style>
